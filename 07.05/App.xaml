@@ -1,0 +1,11 @@
+﻿<Application x:Class="_07._05.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_07._05"
+             StartupUri="/Windows/MaterialList.xaml">
+    <Application.Resources>
+
+        <SolidColorBrush x:Key="AccentColor">#EAB14D</SolidColorBrush>
+        <SolidColorBrush x:Key="AdditionalColor">#FEA9AB</SolidColorBrush>
+    </Application.Resources>
+</Application>
